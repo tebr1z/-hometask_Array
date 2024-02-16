@@ -1,0 +1,15 @@
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\bin\Debug\net8.0\#hometask_Array.exe
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\bin\Debug\net8.0\#hometask_Array.deps.json
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\bin\Debug\net8.0\#hometask_Array.runtimeconfig.json
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\bin\Debug\net8.0\#hometask_Array.dll
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\bin\Debug\net8.0\#hometask_Array.pdb
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.sourcelink.json
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.dll
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\refint\#hometask_Array.dll
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.pdb
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\#hometask_Array.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\#hometask_Array\#hometask_Array\obj\Debug\net8.0\ref\#hometask_Array.dll

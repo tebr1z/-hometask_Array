@@ -23,3 +23,17 @@ Console.WriteLine(cem);
 
 
 #endregion
+
+
+
+int[] arr = { 22, 55, 44, 66, 88, 47, 5 };
+int boyuqarr = arr[0];
+
+for (int i = 1; i<arr.Length; i++)
+{
+    if (arr[i]>boyuqarr)
+    {
+        boyuqarr = arr[i];
+    }
+}
+Console.WriteLine(boyuqarr);
